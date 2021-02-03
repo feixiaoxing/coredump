@@ -1,1 +1,1 @@
-"# windows_coredump" 
+a windows coredump class 
