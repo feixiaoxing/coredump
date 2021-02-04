@@ -9,7 +9,7 @@ int main()
 {
 
 	CMiniDumper g_miniDumper(true);
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
 
 	int*p = 0;
 	*p = 1;
